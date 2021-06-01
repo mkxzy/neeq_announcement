@@ -42,7 +42,7 @@ sphinxcontrib-websupport==1.0.1.dev20170522
 SQLAlchemy==1.1.15
 team==1.0
 traitlets==4.3.2
-urllib3==1.22
+urllib3==1.26.5
 virtualenv==15.1.0
 wcwidth==0.1.7
 Whoosh==2.7.4
