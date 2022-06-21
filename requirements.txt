@@ -17,7 +17,7 @@ louis==3.4.0
 lxml==4.1.1
 MarkupSafe==1.0
 matplotlib==2.1.0
-numpy==1.13.3
+numpy==1.22.0
 packaging==16.8
 parso==0.1.1
 pexpect==4.3.0
